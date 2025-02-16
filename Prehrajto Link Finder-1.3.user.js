@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Prehrajto Link Finder
 // @namespace    original
-// @version      1.3
+// @version      1.4
 // @description  Show premiumcdn.net links from inline scripts, unique, short, label priority, copy/open, middle-click
 // @match        *://*.prehrajto.cz/*
 // @updateURL    https://raw.githubusercontent.com/MichelFaraday/PrehrajtoDownloader/main/Prehrajto%20Link%20Finder-1.3.user.js
