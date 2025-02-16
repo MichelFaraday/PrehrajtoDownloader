@@ -4,6 +4,7 @@
 // @version      1.3
 // @description  Show premiumcdn.net links from inline scripts, unique, short, label priority, copy/open, middle-click
 // @match        *://*.prehrajto.cz/*
+// @author       Michel
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // ==/UserScript==
