@@ -6,7 +6,7 @@
 // @match        *://*.prehrajto.cz/*
 // @updateURL    https://raw.githubusercontent.com/MichelFaraday/PrehrajtoDownloader/main/Prehrajto%20Link%20Finder-1.3.user.js
 // @downloadURL  https://raw.githubusercontent.com/MichelFaraday/PrehrajtoDownloader/main/Prehrajto%20Link%20Finder-1.3.user.js
-// @author       Michel
+// @author       MichelFaraday
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // ==/UserScript==
